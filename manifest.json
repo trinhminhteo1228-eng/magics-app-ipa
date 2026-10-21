@@ -1,0 +1,15 @@
+{
+  "name": "Magics App VIP",
+  "short_name": "MagicsApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/zf3gp8qV/avt-magic.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
